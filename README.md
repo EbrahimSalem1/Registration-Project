@@ -6,7 +6,7 @@
 <h2>#Test Case 1: Register Form Elements Is Visible</h2>
 
 1. Launch browser
-2. Navigate to url 'http://automationexercise.com'
+2. Navigate to url 'https://testing.todorvachev.com/'
 3. Click On Test Scenario Link
 4. Click On Register Form Link
 5. Verify 'ElementsRegisterFormIsDisplayed' is visible
@@ -15,7 +15,7 @@
 <h2>#Test Case 2: Register Form With Invalid Data</h2>
 
 1. Launch browser
-2. Navigate to url 'http://automationexercise.com'
+2. Navigate to url 'https://testing.todorvachev.com/'
 3. Create an Object From 'RegisterFormPage'
 4. Click On Test Scenario Link
 5. Click On Register Form Link
@@ -29,7 +29,7 @@
 <h2>Test Case 3: Register Form With Valid Data</h2>
 
 1. Launch browser
-2. Navigate to url 'http://automationexercise.com'
+2. Navigate to url 'https://testing.todorvachev.com/'
 3. Click On Test Scenario Link
 4. Click On Register Form Link
 5. Use DataModel and call 'registrationFormFeatureSuccess' method
